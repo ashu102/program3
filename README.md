@@ -12,6 +12,7 @@ sum of the remaining coder's skill is minimum. Print this sum.
 using namespace std;
 
 main()
+
 {
 ios_base::sync_with_stdio(false);
 
