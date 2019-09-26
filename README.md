@@ -35,9 +35,11 @@ sort(a,a+n);
 
 for(int i=1; i<n; i++)
 {
+  
   for(int j=i-1; j>=0; j--)
   {
-  	if(a[i]>a[j]&&a[j]!=0)
+  	
+	if(a[i]>a[j]&&a[j]!=0)
 	{
 
 		a[j]=0;
